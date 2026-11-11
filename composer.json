@@ -1,5 +1,15 @@
 {
     "name": "youvision/think-pinyin",
+    "authors": [
+        {
+            "name": "indiboy-create",
+            "homepage": "https://github.com/indiboy-create"
+        },
+        {
+            "name": "AI",
+            "role": "Developer"
+        }
+    ],
     "description": "基于 PSCWS4 分词与 overtrue/pinyin 的中文转拼音工具，适配 ThinkPHP 8",
     "type": "library",
     "keywords": [
